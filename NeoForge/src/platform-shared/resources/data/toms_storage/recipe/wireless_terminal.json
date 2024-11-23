@@ -16,10 +16,10 @@
       "item": "minecraft:comparator"
     },
     "E": {
-      "tag": "c:ender_pearls"
+      "tag": "minecraft:repeater"
     },
     "G": {
-      "tag": "c:dusts/glowstone"
+      "tag": "minecraft:redstone"
     },
     "g": {
       "tag": "c:glass_blocks/colorless"

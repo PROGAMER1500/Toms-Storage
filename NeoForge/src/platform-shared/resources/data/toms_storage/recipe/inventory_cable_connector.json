@@ -19,10 +19,10 @@
       "item": "toms_storage:inventory_cable"
     },
     "E": {
-      "tag": "c:ender_pearls"
+      "tag": "minecraft:string"
     },
     "q": {
-      "tag": "c:gems/quartz"
+      "tag": "minecraft:redstone"
     }
   },
   "result": {
